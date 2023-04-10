@@ -1,6 +1,5 @@
-# anglar
-ok
-## About API pergamo v2.0
+
+# About API pergamo v2.0
 
 Esta API es la nueva versión de Enseñame v2.0, con las siguientes caracteristicas:
 
